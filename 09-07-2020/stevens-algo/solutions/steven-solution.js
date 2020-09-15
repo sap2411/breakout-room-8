@@ -1,7 +1,7 @@
 //99.4% best runtime
 //24.65% best memory
 
-//create 2 objects to store a max and 2nd max value and index from the input array
+//create 2 objects to store a max and 2nd max value as well as their index from the input array
 //initialize them with values that are sure to be overwritten
 //loop through input array
 
